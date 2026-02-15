@@ -23,7 +23,7 @@
 Multi-engine malware scanner using VirusTotal API (70+ engines).  
 Hash-based threat detection with structured reporting and visual analytics.
 
-### 📸 Real-Time AI Photographer
+### 📸 ShinChai Hasho Hasho: Real-Time Conversational AI Photographer
 Edge-filtered AI camera assistant combining OpenCV-based gating with low-latency AI feedback.
 
 ---
