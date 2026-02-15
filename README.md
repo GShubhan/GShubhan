@@ -1,16 +1,52 @@
-## Hi there 👋
+# 👋 Hi, I'm Shubhan
 
-<!--
-**GShubhan/GShubhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering @ National University of Singapore  
+🧠 Minor in AI  
+⚡ HPC Team - SBCC  
+🥇 Head of Dry Lab - iGEM Gold Medal (421 teams)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Interests
+
+- Backend Systems Engineering
+- AI Inference Infrastructure
+- Distributed Systems
+- Performance Optimization
+- Applied Machine Learning
+
+---
+
+## 🔥 Selected Projects
+
+### 🛡 NoVirus
+Multi-engine malware scanner using VirusTotal API (70+ engines).  
+Hash-based threat detection with structured reporting and visual analytics.
+
+### 📸 Real-Time AI Photographer
+Edge-filtered AI camera assistant combining OpenCV-based gating with low-latency AI feedback.
+
+---
+
+## 🛠 Tech Stack
+
+**Languages:** Python, C++, Java  
+**Systems:** Linux, Git  
+**AI/ML:** OpenCV, scikit-learn  
+**Hardware:** FPGA, Microcontrollers  
+
+---
+
+## 📈 Currently Learning
+
+- FastAPI
+- Async backend architecture
+- Model serving pipelines
+- Scalable system design
+
+---
+
+## 📫 Connect
+
+LinkedIn: www.linkedin.com/in/shubhangabra  
+Email: e1459258@u.nus.edu
