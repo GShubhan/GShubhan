@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Shubhan
+# 👋 Hi, I'm Shubhan Gabra
 
 🎓 Computer Engineering @ National University of Singapore  
 🧠 Minor in AI  
