@@ -2,7 +2,7 @@
 
 🎓 Computer Engineering @ National University of Singapore  
 🧠 Minor in AI  
-⚡ NUS HPC Team - #1 in SBCC'26. APAC AI HPC'26 - Optimised Qwen3-235B-A22B on 16 H200 GPUs.
+⚡ NUS HPC Team - #1 in SBCC'26. APAC AI HPC'26 - Optimised Qwen3-235B-A22B on 16 H200 GPUs.   
 🥇 Head of Dry Lab - iGEM Gold Medal (421 teams)
 
 ---
