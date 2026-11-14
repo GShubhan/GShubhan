@@ -30,12 +30,12 @@ Edge-filtered AI camera assistant combining OpenCV-based gating with low-latency
 
 ## 🛠 Tech Stack
 
-**Languages:** Python, C++, Java, SQL, HTML, CSS
-**Backend & APIs:** FastAPI, Django, REST APIs, Pydantic, JWT, OAuth2
-**Databases & ORM:** PostgreSQL, SQLite, SQLAlchemy, Alembic
-**AI & Agents:** LangChain, LangGraph, RAG, ChromaDB, LangSmith, vLLM, SGLang, YOLO, OpenCV, scikit-learn
-**DevOps & Cloud:** Docker, GitHub Actions (CI/CD), AWS, pytest
-**Systems & Tools:** Linux, Git/GitHub, Postman, SLURM, Ansible, Grafana, Prometheus
+**Languages:** Python, C++, Java, SQL, HTML, CSS  
+**Backend & APIs:** FastAPI, Django, REST APIs, Pydantic, JWT, OAuth2  
+**Databases & ORM:** PostgreSQL, SQLite, SQLAlchemy, Alembic  
+**AI & Agents:** LangChain, LangGraph, RAG, ChromaDB, LangSmith, vLLM, SGLang, YOLO, OpenCV, scikit-learn  
+**DevOps & Cloud:** Docker, GitHub Actions (CI/CD), AWS, pytest  
+**Systems & Tools:** Linux, Git/GitHub, Postman, SLURM, Ansible, Grafana, Prometheus  
 
 ---
 
