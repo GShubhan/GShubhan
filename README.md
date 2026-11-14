@@ -2,7 +2,7 @@
 
 🎓 Computer Engineering @ National University of Singapore  
 🧠 Minor in AI  
-⚡ HPC Team - SBCC  
+⚡ NUS HPC Team - #1 in SBCC'26. APAC AI HPC'26 - Optimised Qwen3-235B-A22B on 16 H200 GPUs.
 🥇 Head of Dry Lab - iGEM Gold Medal (421 teams)
 
 ---
@@ -30,19 +30,12 @@ Edge-filtered AI camera assistant combining OpenCV-based gating with low-latency
 
 ## 🛠 Tech Stack
 
-**Languages:** Python, C++, Java  
-**Systems:** Linux, Git  
-**AI/ML:** OpenCV, scikit-learn  
-**Hardware:** FPGA, Microcontrollers  
-
----
-
-## 📈 Currently Learning
-
-- FastAPI
-- Async backend architecture
-- Model serving pipelines
-- Scalable system design
+**Languages:** Python, C++, Java, SQL, HTML, CSS
+**Backend & APIs:** FastAPI, Django, REST APIs, Pydantic, JWT, OAuth2
+**Databases & ORM:** PostgreSQL, SQLite, SQLAlchemy, Alembic
+**AI & Agents:** LangChain, LangGraph, RAG, ChromaDB, LangSmith, vLLM, SGLang, YOLO, OpenCV, scikit-learn
+**DevOps & Cloud:** Docker, GitHub Actions (CI/CD), AWS, pytest
+**Systems & Tools:** Linux, Git/GitHub, Postman, SLURM, Ansible, Grafana, Prometheus
 
 ---
 
